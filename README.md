@@ -1,6 +1,6 @@
 ### Hey, I'm Parth.
 
-**21 · Product & Research at [Proflex Finance](https://proflexfinance.com) (Silicon Valley) · CFA L2 Candidate · ISB MBA**
+**21 · Based in India · Product & Research for [Proflex Finance](https://proflexfinance.com) (Silicon Valley) · CFA L2 Candidate · ISB MBA**
 
 I build tools, write investment research, and run growth for a multi-strategy firm in Los Gatos, CA. Most of my work involves shipping production software, automating content workflows, and figuring out how to get more done with fewer people.
 
